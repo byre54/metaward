@@ -1,31 +1,18 @@
-# `Vite 2.x + Vue 3.x + Tailwind 2.x starter ⚡`
+# `METAWARD ⚡`
 
-![Vite, Vue, Tailwind CSS](https://user-images.githubusercontent.com/11320080/111277027-a9384c00-8640-11eb-8323-21889bd7c609.png)
+![metaward](https://ethglobal.s3.amazonaws.com/rechxpdX4PoxLDsYE/metaward-logo.jpeg)
 
-This starter template also includes:
+This project would allow organisation , community, or personal to create a digital appreciation that could be presented to other it could be people, community or organisation too and it could be validated on the blockchain as NFT could be some Certificate to be printed too that saved on the Decentralised Interplanetary File File System. 
 
-- [Vue Router 4.x](https://github.com/vuejs/vue-router-next)
-- [Inter var font](https://github.com/rsms/inter) (self-hosted, woff2, v3.19, with 'preload' attr, check out index.html)
-- [Just-in-Time](https://tailwindcss.com/docs/just-in-time-mode) mode by default introduced in Tailwind CSS v2.1 (in preview!)
-- [Headless UI](https://headlessui.dev/vue/menu) - unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS
-- [Heroicons](https://github.com/tailwindlabs/heroicons#vue) - beautiful hand-crafted SVG icons,
-by the makers of Tailwind CSS
+![metaward](https://ethglobal.s3.amazonaws.com/rechxpdX4PoxLDsYE/Screen_Shot_2021-08-15_at_11.29.05.png)
 
-First-party plugins needed for Tailwind UI:
 
-- [tailwindcss/forms](https://github.com/tailwindlabs/tailwindcss-forms)
-- [tailwindcss/typography](https://github.com/tailwindlabs/tailwindcss-typography)
-- [tailwindcss/line-clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp)
-- [tailwindcss/aspect-ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio)
 
 ### Getting Started 🚀
 
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/web2033/vite-vue3-tailwind-starter)
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/rejais/metaward)
 
-```sh
-npx degit web2033/vite-vue3-tailwind-starter vvt-app
-cd vvt-app
-```
+
 
 npm:
 ```sh
@@ -43,11 +30,7 @@ yarn build
 yarn serve
 ```
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/web2033/vite-vue3-tailwind-starter)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/rejais/metaward)
 
-#### Bonus links
-- [Enabling https on localhost](https://github.com/web2033/vite-vue3-tailwind-starter/discussions/112) (dev notes)
-- [Vite dev server with netlify dev support](https://github.com/web2033/vite-vue3-tailwind-starter/discussions/113) (dev notes)
-- [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) - recommended VSCode extension built specifically for Vue 3 (instead of Vetur)
-- [Pinia](https://pinia.esm.dev/introduction.html) - state-management alternative to Vuex 4 with a similar to upcoming Vuex 5 API
-- [VueUse](https://vueuse.org/functions.html) - collection of essential Vue Composition Utilities
+#### BUY ME A COFFEE
+0x7342c7d7B8D0aE7FeCe192a15F5Ba5243dcCA45F
